@@ -1,0 +1,14 @@
+{
+    "name": "adventofcode",
+    "authors": [
+        {
+            "name": "Phil Burton",
+            "email": "phil@pgburton.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    }
+}
