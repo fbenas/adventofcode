@@ -5,7 +5,7 @@ namespace App\One;
 /**
  * Sum contents of an array
  *
- * @author Phil Burton <phil@d3r.com>
+ * @author Phil Burton <phil@pgburton.com>
  */
 class ArraySum
 {
@@ -20,7 +20,7 @@ class ArraySum
      * Take array and sum it
      *
      * @param array $array
-     * @author Phil Burton <phil@d3r.com>
+     * @author Phil Burton <phil@pgburton.com>
      */
     public function __construct(array $array)
     {
